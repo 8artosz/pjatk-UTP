@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jan 15 10:13:21 CET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0177-0552-15e7-00000f07f688 
+on database directory C:\Users\brtsz\OneDrive\Pulpit\UTP7_WB_S20296\database with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5a07e868 
+Loaded from file:/C:/Users/brtsz/OneDrive/Pulpit/UTP7_WB_S20296/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14+36-1461
+user.dir=C:\Users\brtsz\OneDrive\Pulpit\UTP7_WB_S20296
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

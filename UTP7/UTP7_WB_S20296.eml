@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="derby" value="project"/>
+		<level name="derbyshared" value="project"/>
+		<level name="derbytools" value="project"/>
+	</levels>
+</component>

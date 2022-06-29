@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="derby">
+    <archive path="C:/Users/brtsz/OneDrive/Pulpit/UTP7_WB_S20296/lib/derby.jar" />
+  </library>
+  <library name="derbyshared">
+    <archive path="C:/Users/brtsz/OneDrive/Pulpit/UTP7_WB_S20296/lib/derbyshared.jar" />
+  </library>
+  <library name="derbytools">
+    <archive path="C:/Users/brtsz/OneDrive/Pulpit/UTP7_WB_S20296/lib/derbytools.jar" />
+  </library>
+</eclipse-userlibraries>
+
